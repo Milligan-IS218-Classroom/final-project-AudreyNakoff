@@ -5,6 +5,17 @@ body {
     grid-template-areas: "header header header"
                          "main main main"
                          "footer footer footer";
-    grid-template-columns: ;
     max-width: 100%;
+}
+
+header {
+    grid-area: header;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
 }
