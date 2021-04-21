@@ -1,1 +1,10 @@
 @charset "utf-8";
+
+body {
+    display:grid;
+    grid-template-areas: "header header header"
+                         "main main main"
+                         "footer footer footer";
+    grid-template-columns: ;
+    max-width: 100%;
+}
