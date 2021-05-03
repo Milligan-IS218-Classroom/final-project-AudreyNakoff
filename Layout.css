@@ -1,2 +1,21 @@
 @charset "utf-8";
 
+#title {
+width: 20%;
+}
+
+#author {
+width: 10%;
+}
+
+#type {
+width: 10%;
+}
+
+#synopsis {
+width: 50%;
+}
+
+#source {
+width: 10%;
+}

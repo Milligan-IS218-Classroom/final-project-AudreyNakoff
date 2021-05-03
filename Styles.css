@@ -1,27 +1,43 @@
 @charset "utf-8";
 html{
-    background-color: white;
+    background-color: #fffcf0;
 }
 
 a {
     text-decoration: none;
-    color: rgb(73, 160, 73);
+    color: #47c7d8;
 }
 
 a:hover, a:active {
-    color: rgb(31, 31, 121);
+    color: #105f81;
     text-decoration: underline;
 }
 
+table{
+    border: solid black 1px;
+    border-collapse: collapse;
+}
 
 .topNav ul li {
     list-style: none;
 }
 
 h1 {
-    color: rgb(32, 179, 179);
+    color: #0a6b86 ;
 }
 
 h2 {
-    color: rgb(3, 170, 92); 
+    color: #0a6b86;
+}
+
+#title {
+    color: #0a6b86;
+}
+th {
+    color: #19505f;
+    border: black solid 1px;
+}
+td {
+color: #105f81;
+border: black solid 1px;
 }
