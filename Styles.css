@@ -1,0 +1,47 @@
+@charset "utf-8";
+html{
+    background-color: #fffcf0;
+}
+
+a {
+    text-decoration: none;
+    color: #47c7d8;
+}
+
+a:hover, a:active {
+    color: #105f81;
+    text-decoration: underline;
+}
+
+table{
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+
+.topNav ul li {
+    list-style: none;
+}
+
+h1 {
+    color: #0a6b86 ;
+}
+
+h2 {
+    color: #0a6b86;
+}
+
+#title {
+    color: #0a6b86;
+}
+th {
+    color: #19505f;
+    border: black solid 1px;
+}
+td {
+color: #105f81;
+border: black solid 1px;
+}
+
+p {
+    color: #105f81;
+}
